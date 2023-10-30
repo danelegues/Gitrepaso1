@@ -13,6 +13,9 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             System.out.println("Comentario");
+            System.out.println("comentario 1);
+            System.out.println("comentario 2");
+            System.out.println("Comantarios 3");
         }
     }
 }
